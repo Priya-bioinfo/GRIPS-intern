@@ -1,2 +1,2 @@
 # GRIPS-intern
-repo for tasks assigned by sparks foundation
+Repo for tasks assigned by sparks foundation
